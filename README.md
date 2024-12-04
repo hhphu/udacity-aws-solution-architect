@@ -3,10 +3,8 @@
 
 ## Overview
 This contains all projects completed from Udacity's [AWS Solution Architect Nanodegree](https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063). 
-
-![Screenshot 2024-12-03 180856](https://github.com/user-attachments/assets/2809dc62-b319-4bd8-a352-e4f09f990c9d)
-
 [View certificate](https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063)
+
 ## Projects
 
 ### Design for Availability, Reliability, and Resiliency

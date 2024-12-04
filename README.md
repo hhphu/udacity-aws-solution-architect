@@ -3,6 +3,7 @@
 
 ## Overview
 This contains all projects completed from Udacity's [AWS Solution Architect Nanodegree](https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063). 
+
 [View certificate](https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063)
 
 ## Projects

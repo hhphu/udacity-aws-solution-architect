@@ -26,4 +26,4 @@ This contains all projects completed from Udacity's [AWS Solution Architect Nano
 `Cloud security in AWS`   `AWS key management service`   `Data encryption in AWS`   `AWS IAM`   `AWS encryption sdk`   `Principle of least privilege`   `Amazon inspector`   `Iam policies`   `AWS waf`   `AWS config`   `Network access control lists`   `Amazon guardduty`   `AWS security hub`   `DevSecOps in AWS`   `AWS vpn`
 
 
-[View Certificate](www.udacity.com/certificate/e/efbeb99e-28b1-11eb-8b12-4b51c7ca889a)
+##### [View Certificate](https://www.udacity.com/certificate/e/efbeb99e-28b1-11eb-8b12-4b51c7ca889a)

@@ -4,7 +4,7 @@
 ## Overview
 This contains all projects completed from Udacity's [AWS Solution Architect Nanodegree](https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063). 
 
-[View certificate](https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063)
+
 
 ## Projects
 
@@ -24,3 +24,6 @@ This contains all projects completed from Udacity's [AWS Solution Architect Nano
 #### Project link: https://github.com/hhphu/aws-design-for-security
 #### Skills/Technology:
 `Cloud security in AWS`   `AWS key management service`   `Data encryption in AWS`   `AWS IAM`   `AWS encryption sdk`   `Principle of least privilege`   `Amazon inspector`   `Iam policies`   `AWS waf`   `AWS config`   `Network access control lists`   `Amazon guardduty`   `AWS security hub`   `DevSecOps in AWS`   `AWS vpn`
+
+
+## [View certificate](https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063)
